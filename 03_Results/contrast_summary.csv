@@ -1,0 +1,6 @@
+"contrast","tested_pvalue","tested_adjusted","significant","positive","negative"
+"interaction",20264,19871,1709,760,949
+"nitrogen_Col0",20264,20264,4548,2505,2043
+"nitrogen_wrky75",20264,19478,3008,1717,1291
+"genotype_control",20264,19871,1619,790,829
+"genotype_HN",20264,19871,2422,988,1434

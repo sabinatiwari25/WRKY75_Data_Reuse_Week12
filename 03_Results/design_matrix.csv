@@ -1,0 +1,13 @@
+"","(Intercept)","genotypewrky75","nitrogenHN","genotypewrky75:nitrogenHN"
+"Col-0_cntr_exp2_rep1",1,0,0,0
+"Col-0_cntr_exp2_rep2",1,0,0,0
+"Col-0_cntr_exp2_rep3",1,0,0,0
+"Col-0_HN_exp2_rep1",1,0,1,0
+"Col-0_HN_exp2_rep2",1,0,1,0
+"Col-0_HN_exp2_rep3",1,0,1,0
+"wrky75_cntr_exp2_rep1",1,1,0,0
+"wrky75_cntr_exp2_rep2",1,1,0,0
+"wrky75_cntr_exp2_rep3",1,1,0,0
+"wrky75_HN_exp2_rep1",1,1,1,1
+"wrky75_HN_exp2_rep2",1,1,1,1
+"wrky75_HN_exp2_rep3",1,1,1,1

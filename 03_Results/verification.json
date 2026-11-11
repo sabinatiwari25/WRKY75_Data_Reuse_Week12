@@ -1,0 +1,14 @@
+{
+  "contrast_max_abs_error_nitrogen": 6.3949e-14,
+  "contrast_max_abs_error_genotype": 1.0658e-14,
+  "BH_max_abs_error": 2.276e-15,
+  "PC2_monotonic_groups": 4,
+  "PC2_groups": 4,
+  "primary_significant": 1709,
+  "sensitivity_significant": 2072,
+  "significant_in_both": 1571,
+  "sign_agreement_in_both": 1571,
+  "shared_senescence_in_both": 183,
+  "sensitivity_shared": 259,
+  "interaction_log2FC_pearson": 0.9721
+}

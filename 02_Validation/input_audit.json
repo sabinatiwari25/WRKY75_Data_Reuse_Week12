@@ -1,0 +1,495 @@
+{
+  "files": [
+    {
+      "name": "GSE102302_WRKY75RNAi_vs_Col_down-regulatedgenes.xls.gz",
+      "bytes": 96799,
+      "sha256": "e457ff001309ac633de706a30b8086eafc92410242247133d96aa41104b8e4f0"
+    },
+    {
+      "name": "GSE102302_WRKY75RNAi_vs_Col_down-regulatedgenes.xls",
+      "bytes": 249344,
+      "sha256": "cbcc090703da993c8ea4c64832537c8e4304a8c9d829f23d275b428e42a92931",
+      "extracted_from": "GSE102302_WRKY75RNAi_vs_Col_down-regulatedgenes.xls.gz"
+    },
+    {
+      "name": "GSE102302_WRKY75RNAi_vs_Col_up-regulatedgenes.xls.gz",
+      "bytes": 128981,
+      "sha256": "58f918863e6b7371d9f89bf7f126e4bb59dc65550e680d871f0e419407bd69b8"
+    },
+    {
+      "name": "GSE102302_WRKY75RNAi_vs_Col_up-regulatedgenes.xls",
+      "bytes": 132415,
+      "sha256": "bbc3b0178308957d9549b8fb48512a8e534b9bdfac2d1824dda4add1b40e666f",
+      "extracted_from": "GSE102302_WRKY75RNAi_vs_Col_up-regulatedgenes.xls.gz"
+    },
+    {
+      "name": "GSE184528_1_raw_reads.xlsx",
+      "bytes": 2407623,
+      "sha256": "ca1cda91df59445b1df3cb5a2ecb0e1fe190c51c39f412c8db46774120221c3e"
+    },
+    {
+      "name": "GSE184528_2_raw_reads.xlsx",
+      "bytes": 3226691,
+      "sha256": "cc64135f2bfd34851cd616b982489119252ba978d09a83a5f05b9beb6390bbe8"
+    }
+  ],
+  "workbooks": [
+    {
+      "file": "GSE184528_1_raw_reads.xlsx",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "rows": 34219,
+          "columns": 13,
+          "preview": [
+            [
+              null,
+              "Col-0_cntr_exp1_rep1",
+              "Col-0_cntr_exp1_rep2",
+              "Col-0_cntr_exp1_rep3",
+              "agb1-2_cntr_exp1_rep1",
+              "agb1-2_cntr_exp1_rep2",
+              "agb1-2_cntr_exp1_rep3",
+              "Col-0_HN_exp1_rep1",
+              "Col-0_HN_exp1_rep2",
+              "Col-0_HN_exp1_rep3",
+              "agb1-2_HN_exp1_rep1",
+              "agb1-2_HN_exp1_rep2",
+              "agb1-2_HN_exp1_rep3"
+            ],
+            [
+              "AT1G01010",
+              492,
+              559,
+              628,
+              681,
+              647,
+              671,
+              581,
+              624,
+              665,
+              676,
+              776,
+              568
+            ],
+            [
+              "AT1G01020",
+              404,
+              470,
+              570,
+              586,
+              468,
+              457,
+              529,
+              474,
+              510,
+              470,
+              471,
+              525
+            ],
+            [
+              "AT1G03987",
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              "AT1G01030",
+              24,
+              27,
+              36,
+              17,
+              24,
+              26,
+              19,
+              17,
+              17,
+              15,
+              30,
+              24
+            ]
+          ],
+          "first_column_unique": 34218,
+          "first_column_duplicates": 0,
+          "agi_first_column": 32833,
+          "numeric_cells": 410616,
+          "negative_numeric": 0,
+          "noninteger_numeric": 0
+        }
+      ],
+      "noncanonical_identifier_examples": [
+        "ENSRNA049757489",
+        "ENSRNA049757528",
+        "ENSRNA049757531",
+        "ENSRNA049492453",
+        "ENSRNA049495703",
+        "ENSRNA049495699",
+        "ENSRNA049495696",
+        "ENSRNA049492454",
+        "ENSRNA049492614",
+        "ENSRNA049495711",
+        "ENSRNA049495694",
+        "ENSRNA049495701",
+        "ENSRNA049495704",
+        "ENSRNA049495709",
+        "ENSRNA049757533",
+        "ENSRNA049757536",
+        "ENSRNA049492457",
+        "ENSRNA049757539",
+        "ENSRNA049495693",
+        "ENSRNA049492459"
+      ]
+    },
+    {
+      "file": "GSE184528_2_raw_reads.xlsx",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "rows": 34219,
+          "columns": 18,
+          "preview": [
+            [
+              null,
+              "Col-0_cntr_exp2_rep1",
+              "Col-0_cntr_exp2_rep2",
+              "Col-0_cntr_exp2_rep3",
+              "Col-0_HN_exp2_rep1",
+              "Col-0_HN_exp2_rep2",
+              "Col-0_HN_exp2_rep3",
+              "wrky40_cntr_exp2_rep1",
+              "wrky40_cntr_exp2_rep2",
+              "wrky40_HN_exp2_rep1",
+              "wrky40_HN_exp2_rep2",
+              "wrky40_HN_exp2_rep3",
+              "wrky75_cntr_exp2_rep1",
+              "wrky75_cntr_exp2_rep2",
+              "wrky75_cntr_exp2_rep3",
+              "wrky75_HN_exp2_rep1",
+              "wrky75_HN_exp2_rep2",
+              "wrky75_HN_exp2_rep3"
+            ],
+            [
+              "AT1G01010",
+              696,
+              758,
+              769,
+              1255,
+              1311,
+              1282,
+              1282,
+              1380,
+              707,
+              941,
+              948,
+              801,
+              748,
+              877,
+              998,
+              1027,
+              1157
+            ],
+            [
+              "AT1G01020",
+              476,
+              358,
+              437,
+              413,
+              501,
+              387,
+              368,
+              323,
+              457,
+              368,
+              296,
+              417,
+              498,
+              489,
+              372,
+              459,
+              488
+            ],
+            [
+              "AT1G03987",
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              "AT1G01030",
+              38,
+              21,
+              36,
+              36,
+              18,
+              11,
+              9,
+              17,
+              23,
+              32,
+              31,
+              12,
+              12,
+              15,
+              11,
+              23,
+              21
+            ]
+          ],
+          "first_column_unique": 34218,
+          "first_column_duplicates": 0,
+          "agi_first_column": 32833,
+          "numeric_cells": 581706,
+          "negative_numeric": 0,
+          "noninteger_numeric": 0
+        }
+      ],
+      "noncanonical_identifier_examples": [
+        "ENSRNA049757489",
+        "ENSRNA049757528",
+        "ENSRNA049757531",
+        "ENSRNA049492453",
+        "ENSRNA049495703",
+        "ENSRNA049495699",
+        "ENSRNA049495696",
+        "ENSRNA049492454",
+        "ENSRNA049492614",
+        "ENSRNA049495711",
+        "ENSRNA049495694",
+        "ENSRNA049495701",
+        "ENSRNA049495704",
+        "ENSRNA049495709",
+        "ENSRNA049757533",
+        "ENSRNA049757536",
+        "ENSRNA049492457",
+        "ENSRNA049757539",
+        "ENSRNA049495693",
+        "ENSRNA049492459"
+      ]
+    }
+  ],
+  "gene_lists": [
+    {
+      "name": "GSE102302_WRKY75RNAi_vs_Col_down-regulatedgenes.xls",
+      "format": "BIFF/OLE",
+      "sheets": [
+        {
+          "name": "WRKY75RNAi down log2<-1,p<0.01",
+          "rows": 999,
+          "columns": 10,
+          "preview": [
+            [
+              "GeneID",
+              "Gene_length",
+              "Col-Expression",
+              "WRKY75RNAI-Expression",
+              "Col-RPKM",
+              "WRKY75RNAI-RPKM",
+              "log2 Ratio(WRKY75RNAI/Col)",
+              "Up-Down-Regulation(WRKY75RNAI/Col)",
+              "P-value",
+              "FDR"
+            ],
+            [
+              "AT4G23700.1",
+              3615.0,
+              1868.0,
+              107.0,
+              12.50298998,
+              0.778048433,
+              -4.00626937,
+              "Down",
+              0.0,
+              0.0
+            ],
+            [
+              "AT1G26390.1",
+              1762.0,
+              1927.0,
+              178.0,
+              26.46190607,
+              2.655493572,
+              -3.316865042,
+              "Down",
+              0.0,
+              0.0
+            ],
+            [
+              "AT2G14610.1",
+              759.0,
+              44527.0,
+              4380.0,
+              1419.472466,
+              151.6922841,
+              -3.226135255,
+              "Down",
+              0.0,
+              0.0
+            ]
+          ],
+          "first_column_unique": 998,
+          "first_column_duplicates": 0,
+          "agi_first_column": 997
+        },
+        {
+          "name": "Sheet1",
+          "rows": 93,
+          "columns": 8,
+          "preview": [
+            [
+              0,
+              6952.0,
+              "defense response",
+              1.7645e-19,
+              2.4632e-16,
+              "69/857 8.0%",
+              "637/27594 2.3%",
+              "AT5G45000 AT5G26920 AT5G46330 AT5G43580 AT4G23280 AT3G52430 AT5G40990 AT1G72930 AT2G38470 AT1G74710 AT1G71400 AT5G57220 AT2G20142 AT5G38900 AT1G72890 AT1G47890 AT3G20600 AT4G14400 AT4G11650 AT3G11080 AT5G13320 AT3G12250 AT5G25910 AT3G11840 AT2G26560 AT3G05370 AT2G35930 AT2G14610 AT5G45090 AT5G66890 AT1G17610 AT4G26090 AT4G23810 AT2G19190 AT3G11010 AT3G52400 AT1G02450 AT4G02520 AT5G15130 AT3G23010 AT3G25510 AT1G72950 AT1G70850 AT2G35980 AT1G52900 AT1G72910 AT1G02920 AT1G19250 AT5G64905 AT2G26020 AT2G25295 AT3G04220 AT5G45110 AT5G18350 AT2G26380 AT5G22570 AT4G23190 AT3G23240 AT1G56520 AT5G64890 AT4G23310 AT2G30020 AT1G66090 AT4G11340 AT1G18570 AT5G36970 AT5G41750 AT2G40140 AT1G71390"
+            ],
+            [
+              0,
+              6955.0,
+              "immune response",
+              1.7503e-15,
+              1.2217e-12,
+              "39/857 4.5%",
+              "272/27594 0.9%",
+              "AT5G45000 AT5G26920 AT3G52430 AT5G40990 AT1G72930 AT3G25510 AT1G72950 AT1G74710 AT2G35980 AT1G52900 AT1G72910 AT2G20142 AT5G38900 AT1G72890 AT3G20600 AT4G14400 AT4G11650 AT1G02920 AT1G19250 AT5G13320 AT3G12250 AT3G11840 AT2G26560 AT3G04220 AT5G45110 AT5G18350 AT4G23190 AT2G35930 AT2G14610 AT1G56520 AT5G64890 AT5G45090 AT1G17610 AT1G66090 AT4G11340 AT4G26090 AT4G23810 AT5G36970 AT5G41750"
+            ],
+            [
+              0,
+              2376.0,
+              "immune system process",
+              6.6772e-15,
+              3.1071e-12,
+              "39/857 4.5%",
+              "283/27594 1.0%",
+              "AT5G45000 AT5G26920 AT3G52430 AT5G40990 AT1G72930 AT3G25510 AT1G72950 AT1G74710 AT2G35980 AT1G52900 AT1G72910 AT2G20142 AT5G38900 AT1G72890 AT3G20600 AT4G14400 AT4G11650 AT1G02920 AT1G19250 AT5G13320 AT3G12250 AT3G11840 AT2G26560 AT3G04220 AT5G45110 AT5G18350 AT4G23190 AT2G35930 AT2G14610 AT1G56520 AT5G64890 AT5G45090 AT1G17610 AT1G66090 AT4G11340 AT4G26090 AT4G23810 AT5G36970 AT5G41750"
+            ],
+            [
+              0,
+              10200.0,
+              "response to chitin",
+              1.0436e-14,
+              3.6422e-12,
+              "24/857 2.8%",
+              "104/27594 0.3%",
+              "AT3G46090 AT5G67450 AT1G62300 AT4G17490 AT3G23230 AT3G55980 AT2G35930 AT5G27420 AT2G38470 AT5G64660 AT1G66160 AT4G33050 AT5G51190 AT2G17040 AT2G46400 AT2G23320 AT5G56960 AT4G23810 AT4G18880 AT3G44350 AT2G40140 AT3G18710 AT5G25910 AT3G11840"
+            ]
+          ],
+          "first_column_unique": 1,
+          "first_column_duplicates": 91,
+          "agi_first_column": 0
+        }
+      ]
+    },
+    {
+      "name": "GSE102302_WRKY75RNAi_vs_Col_up-regulatedgenes.xls",
+      "format": "OOXML",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "rows": 1361,
+          "columns": 11,
+          "preview": [
+            [
+              "GeneID",
+              "Gene_length",
+              "Col-Expression",
+              "WRKY75RNAI-Expression",
+              "Col-RPKM",
+              "WRKY75RNAI-RPKM",
+              "log2 Ratio(WRKY75RNAI/Col)",
+              "Up-Down-Regulation(WRKY75RNAI/Col)",
+              "P-value",
+              "FDR",
+              null
+            ],
+            [
+              "AT5G67360.1",
+              2688,
+              2337,
+              4317,
+              21.03656182,
+              42.21666677,
+              1.004913742,
+              "Up",
+              0,
+              0,
+              null
+            ],
+            [
+              "AT1G66725.1",
+              628,
+              460,
+              851,
+              17.7232556,
+              35.62058704,
+              1.007067654,
+              "Up",
+              0,
+              0,
+              null
+            ],
+            [
+              "AT4G25260.1",
+              948,
+              2680,
+              4969,
+              68.4024677,
+              137.7817878,
+              1.010264925,
+              "Up",
+              0,
+              0,
+              null
+            ]
+          ],
+          "first_column_unique": 1360,
+          "first_column_duplicates": 0,
+          "agi_first_column": 1360
+        },
+        {
+          "name": "Sheet2",
+          "rows": 0,
+          "columns": 0,
+          "preview": [],
+          "first_column_unique": 0,
+          "first_column_duplicates": 0,
+          "agi_first_column": 0
+        },
+        {
+          "name": "Sheet3",
+          "rows": 0,
+          "columns": 0,
+          "preview": [],
+          "first_column_unique": 0,
+          "first_column_duplicates": 0,
+          "agi_first_column": 0
+        }
+      ]
+    }
+  ]
+}

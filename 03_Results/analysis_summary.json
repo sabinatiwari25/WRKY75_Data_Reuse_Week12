@@ -1,0 +1,73 @@
+{
+  "input_genes": 34218,
+  "retained_genes": 20264,
+  "excluded_low_count": 13954,
+  "samples": 12,
+  "alpha": 0.05,
+  "interaction_coefficient": "genotypewrky75.nitrogenHN",
+  "coefficient_names": ["Intercept", "genotype_wrky75_vs_Col.0", "nitrogen_HN_vs_cntr", "genotypewrky75.nitrogenHN"],
+  "contrasts": [
+    {
+      "contrast": "interaction",
+      "tested_pvalue": 20264,
+      "tested_adjusted": 19871,
+      "significant": 1709,
+      "positive": 760,
+      "negative": 949
+    },
+    {
+      "contrast": "nitrogen_Col0",
+      "tested_pvalue": 20264,
+      "tested_adjusted": 20264,
+      "significant": 4548,
+      "positive": 2505,
+      "negative": 2043
+    },
+    {
+      "contrast": "nitrogen_wrky75",
+      "tested_pvalue": 20264,
+      "tested_adjusted": 19478,
+      "significant": 3008,
+      "positive": 1717,
+      "negative": 1291
+    },
+    {
+      "contrast": "genotype_control",
+      "tested_pvalue": 20264,
+      "tested_adjusted": 19871,
+      "significant": 1619,
+      "positive": 790,
+      "negative": 829
+    },
+    {
+      "contrast": "genotype_HN",
+      "tested_pvalue": 20264,
+      "tested_adjusted": 19871,
+      "significant": 2422,
+      "positive": 988,
+      "negative": 1434
+    }
+  ],
+  "senescence": {
+    "up_rows": 1360,
+    "down_rows": 998,
+    "up_unique": 1231,
+    "down_unique": 931,
+    "unique_total": 2159,
+    "invalid_rows": 1,
+    "direction_conflicts": 3
+  },
+  "shared_interaction": 194,
+  "overlap_test": "not performed: common tested universe unavailable",
+  "PCA_variance_percent": [63.3, 20.5],
+  "GO_status": "163 BP terms at BH FDR < 0.05",
+  "GO": {
+    "universe": 14580,
+    "query": 1284,
+    "terms_tested": 2177,
+    "significant": 163
+  },
+  "heatmap_basis": "Top shared genes ranked by interaction FDR",
+  "library_size_range": [17772315, 21427844],
+  "size_factor_range": [0.831, 1.0763]
+}

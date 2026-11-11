@@ -1,0 +1,13 @@
+sample,GEO_accession,genotype,nitrogen,replicate,excel_column,source
+Col-0_cntr_exp2_rep1,GSM5591950,Col-0,cntr,rep1,2,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+Col-0_cntr_exp2_rep2,GSM5591951,Col-0,cntr,rep2,3,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+Col-0_cntr_exp2_rep3,GSM5591952,Col-0,cntr,rep3,4,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+Col-0_HN_exp2_rep1,GSM5591953,Col-0,HN,rep1,5,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+Col-0_HN_exp2_rep2,GSM5591954,Col-0,HN,rep2,6,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+Col-0_HN_exp2_rep3,GSM5591955,Col-0,HN,rep3,7,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+wrky75_cntr_exp2_rep1,GSM5591961,wrky75,cntr,rep1,13,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+wrky75_cntr_exp2_rep2,GSM5591962,wrky75,cntr,rep2,14,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+wrky75_cntr_exp2_rep3,GSM5591963,wrky75,cntr,rep3,15,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+wrky75_HN_exp2_rep1,GSM5591964,wrky75,HN,rep1,16,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+wrky75_HN_exp2_rep2,GSM5591965,wrky75,HN,rep2,17,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528
+wrky75_HN_exp2_rep3,GSM5591966,wrky75,HN,rep3,18,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184528

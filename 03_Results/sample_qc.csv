@@ -1,0 +1,13 @@
+"sample","genotype","nitrogen","library_reads","detected_genes","size_factor"
+"Col-0_cntr_exp2_rep1","Col-0","cntr",21427844,21698,1.0684666908719
+"Col-0_cntr_exp2_rep2","Col-0","cntr",20727468,21895,1.03513510264846
+"Col-0_cntr_exp2_rep3","Col-0","cntr",20988725,22207,1.07626759377909
+"Col-0_HN_exp2_rep1","Col-0","HN",17772315,21553,0.830975730112958
+"Col-0_HN_exp2_rep2","Col-0","HN",20322067,21872,1.03518468084622
+"Col-0_HN_exp2_rep3","Col-0","HN",19518474,22006,0.949823559496852
+"wrky75_cntr_exp2_rep1","wrky75","cntr",19492212,22061,0.968946862864102
+"wrky75_cntr_exp2_rep2","wrky75","cntr",20311448,21810,1.03968977126907
+"wrky75_cntr_exp2_rep3","wrky75","cntr",18037042,21850,0.957433599665371
+"wrky75_HN_exp2_rep1","wrky75","HN",20759938,22384,1.04115839909073
+"wrky75_HN_exp2_rep2","wrky75","HN",20284081,21673,1.0478535618086
+"wrky75_HN_exp2_rep3","wrky75","HN",20373775,21858,1.05466968571478

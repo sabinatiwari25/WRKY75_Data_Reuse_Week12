@@ -1,0 +1,4 @@
+Intercept
+genotype_wrky75_vs_Col.0
+nitrogen_HN_vs_cntr
+genotypewrky75.nitrogenHN

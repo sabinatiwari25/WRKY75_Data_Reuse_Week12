@@ -1,0 +1,15 @@
+.validation_deps/
+.Rlib/
+.Rhistory
+.RData
+__pycache__/
+01_Raw_Data/
+02_Validation/counts_exp2.csv
+02_Validation/*_console.txt
+02_Validation/*_log.txt
+02_Validation/install_session.txt
+02_Validation/report*_preview.png
+03_Results/*.rds
+03_Results/GO_BP_mapping.csv
+03_Results/normalized_counts.csv
+Week12_Box_Submission/
